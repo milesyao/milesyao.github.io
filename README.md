@@ -1,30 +1,10 @@
-# Kasper
+# C.Yao's website
 
-This is a port of Ghost's default theme [Casper](https://github.com/tryghost/casper) for Jekyll. 
-Feel free to fork, change, modify and re-use it.
-
-## How to use it
-
-Simply clone this repository, and then run `jekyll serve` inside the directory.
-
-Kasper theme includes:
-
-* Pagination
-* Rss
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture
-* Disqus comments
-
-## Screenshots
-
-![index page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-index.png)
-![post page](https://raw.github.com/rosario/kasper/master/assets/images/kasper-theme-post.png)
+This repository serves as the source of my personal website. 
 
 
 ## Thanks 
-Most of the work has been already done by the Ghost team, I've just ported Casper to Jekyll. 
-I've also added few things specific to Jekyll and some minor style changes.
+I borrowed this template from https://github.com/rosario/kasper. Thanks to this great work!
 
 ## Copyright & License
 
