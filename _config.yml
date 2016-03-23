@@ -9,9 +9,10 @@ logo: false
 paginate: 15
 baseurl: /
 domain_name: 'http://cnyao.me'
-google_analytics: 'UA-XXXXXXXX-X'
+google_analytics: 'UA-75499921-1'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://cnyao.me'
+url:            'http://milesyao.github.io'
 author:         'Chunnan Yao'
+
