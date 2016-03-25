@@ -7,7 +7,7 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: http://cnyao.me/
+baseurl: /
 domain_name: 'http://cnyao.me'
 google_analytics: 'UA-75499921-1'
 gems: [jekyll-paginate]
