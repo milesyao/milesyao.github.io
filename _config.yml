@@ -1,4 +1,4 @@
-name: Chunnan Yao's blog
+name: Chunnan Yao's blog lfkdajs;ldk
 description: "It ain't what you don't know that gets you into trouble. <br>
 			 It's what you know for sure that just ain't so."
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
@@ -16,4 +16,3 @@ excerpt_separator: <!--more-->
 # Details for the RSS feed generator
 url:            'http://cnyao.me'
 author:         'Chunnan Yao'
-
