@@ -22,7 +22,7 @@ about: 'https://www.linkedin.com/in/cnyao'
                 {% if site.description %} {{ site.description }} {% endif %}
             </h2>
             <h2 class="page-description">
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                {% if page.about %} <a href='{{ page.about }}'> About me </a> {% endif %}
             </h2>
         </div>
     </div>
@@ -36,9 +36,17 @@ about: 'https://www.linkedin.com/in/cnyao'
     <div class="extra-pagination inner">
         {% include pagination.html %}
     </div>
-
+    <!-- <div class="sidebar">
+      <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?u=ZhPM&d=ZgYbFZeaNItIURu5X2c2jQvSx0L3Jb-Fa6BH7SaTQt4"></script>
+    </div> -->
     {% for post in paginator.posts %}
-
+    <!-- {% if post.previous %}
+      <div>
+        ok, this is it
+      </div>
+    {% else %}
+    oye
+    {% endif %} -->
     <article class="post">
         <header class="post-header">
             <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
@@ -80,5 +88,11 @@ about: 'https://www.linkedin.com/in/cnyao'
     {% endfor %}
 
     {% include pagination.html %}
+
+    <div align="center">
+    <a href="http://www.easycounter.com/">
+    <img src="http://www.easycounter.com/counter.php?yaochunnan"
+    border="0" alt="HTML Hit Counters"></a>
+  </div>
 
 </main>

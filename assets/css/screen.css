@@ -715,6 +715,12 @@ margin on the iframe, cause it breaks stuff. */
 }
 
 /* Every post, on every page, gets this style on its <article> tag */
+.sidebar {
+    position: relative;
+    float: left;
+    width: 10%;
+    margin: 0 2em 0 2em;
+}
 .post {
     position: relative;
     width: 80%;
