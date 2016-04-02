@@ -2,6 +2,9 @@
 layout: post
 title: "The first article of my personal website"
 date: "2016-03-23 15:38:17 +0800"
+tags:
+  - milestone
+  - thinking
 ---
 I wish this website will be a place for me to share my professional & academic  
 experiences, as well as thoughts in daily lives.

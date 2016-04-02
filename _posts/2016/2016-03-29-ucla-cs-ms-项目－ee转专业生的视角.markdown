@@ -2,6 +2,10 @@
 layout: "post"
 title: "UCLA CS MS 项目－ee转专业生的视角"
 date: "2016-03-29 18:25"
+tags:
+  - UCLA
+  - master
+  - career
 ---
 
 _[15Fall] MS.AD CS@UCLA_    
